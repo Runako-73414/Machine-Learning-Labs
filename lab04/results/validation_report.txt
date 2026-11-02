@@ -1,0 +1,19 @@
+
+VALIDATION REPORT
+
+Rows: 48842
+Columns: 15
+
+Age violations: 0
+
+Hours violations:
+0
+
+Capital gain violations:
+0
+
+Capital loss violations:
+0
+
+Duplicate rows:
+52

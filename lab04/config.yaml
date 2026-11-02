@@ -1,0 +1,20 @@
+dataset: adult
+
+random_state: 42
+
+test_size: 0.30
+
+numeric_imputer: median
+
+categorical_imputer: most_frequent
+
+outlier_clipping:
+  lower_quantile: 0.01
+  upper_quantile: 0.99
+
+duplicate_removal:
+  train_only: true
+
+derived_features:
+  - capital_net
+  - hours_per_age

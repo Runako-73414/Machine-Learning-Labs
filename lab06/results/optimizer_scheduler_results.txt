@@ -1,0 +1,18 @@
+Optimizer Study
+
+Adam:
+Created successfully.
+
+SGD + Momentum:
+Created successfully.
+
+Learning Rate Schedulers
+
+StepLR:
+Created successfully.
+
+CosineAnnealingLR:
+Created successfully.
+
+ReduceLROnPlateau:
+Created successfully.

@@ -1,0 +1,9 @@
+Teacher Parameters: 3291402
+
+Student Parameters: 105866
+
+Temperature: 4
+
+Alpha: 0.5
+
+Distillation Loss: 1.9138

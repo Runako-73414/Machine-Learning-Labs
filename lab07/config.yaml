@@ -1,0 +1,28 @@
+seed: 42
+
+batch_size: 128
+
+epochs: 5
+
+learning_rate: 0.001
+
+teacher_epochs: 5
+
+student_epochs: 5
+
+temperature: 4
+
+alpha: 0.5
+
+sparsity_levels:
+  - 0.0
+  - 0.25
+  - 0.50
+  - 0.75
+  - 0.90
+  - 0.95
+
+structured_pruning:
+  - 0.10
+  - 0.25
+  - 0.50

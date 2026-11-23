@@ -1,0 +1,8 @@
+Batch 32  : 15170.48 samples/s
+Batch 64  : 18147.30 samples/s
+Batch 128 : 19191.40 samples/s
+Batch 256 : 21059.15 samples/s
+Batch 512 : 21905.44 samples/s
+
+Peak Memory:
+17.28 MB

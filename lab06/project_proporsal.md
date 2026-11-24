@@ -6,7 +6,7 @@ Student ID: 73414
 
 Project Title
 
-Fashion-MNIST Image Classification Optimization
+Fashion Image Classification Optimization
 
 Problem Statement
 

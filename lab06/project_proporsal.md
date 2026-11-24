@@ -6,7 +6,7 @@ Student ID: 73414
 
 Project Title
 
-Fashion Image Classification Optimization
+Fashion Image Classification Optimization System
 
 Problem Statement
 
